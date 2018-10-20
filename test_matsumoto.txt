@@ -1,3 +1,8 @@
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 cccccccccc
+<<<<<<< HEAD
 ddddddddddeeeeeeeeeee
+=======
+dddddddddd
+hoge
+>>>>>>> db6cc83f2fc615e484c66427dcd4adcc8b4b90dd
